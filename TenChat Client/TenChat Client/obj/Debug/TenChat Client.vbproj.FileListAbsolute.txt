@@ -1,0 +1,194 @@
+c:\users\manuel.itworld-oehme\documents\visual studio 2012\Projects\TenChat Client\TenChat Client\bin\Debug\TenChat Client.exe.config
+c:\users\manuel.itworld-oehme\documents\visual studio 2012\Projects\TenChat Client\TenChat Client\bin\Debug\TenChat Client.exe
+c:\users\manuel.itworld-oehme\documents\visual studio 2012\Projects\TenChat Client\TenChat Client\bin\Debug\TenChat Client.pdb
+c:\users\manuel.itworld-oehme\documents\visual studio 2012\Projects\TenChat Client\TenChat Client\bin\Debug\TenChat Client.xml
+c:\users\manuel.itworld-oehme\documents\visual studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Form1.resources
+c:\users\manuel.itworld-oehme\documents\visual studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Resources.resources
+c:\users\manuel.itworld-oehme\documents\visual studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat Client.vbproj.GenerateResource.Cache
+c:\users\manuel.itworld-oehme\documents\visual studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat Client.exe
+c:\users\manuel.itworld-oehme\documents\visual studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat Client.xml
+c:\users\manuel.itworld-oehme\documents\visual studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat Client.pdb
+c:\users\manuel.itworld-oehme\documents\visual studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.AddServer.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.VersionLOG.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Login.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Serverliste.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\bin\Debug\AeroSuite.dll
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.TenChatClient.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.About.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.SplashScreen1.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\bin\Debug\de\TenChat Client.resources.dll
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\bin\Debug\en\TenChat Client.resources.dll
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\bin\Debug\ru\TenChat Client.resources.dll
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.About.de.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.About.en.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.About.ru.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\de\TenChat Client.resources.dll
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\en\TenChat Client.resources.dll
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\ru\TenChat Client.resources.dll
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.AddServer.de.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.AddServer.en.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.AddServer.ru.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Form1.de.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Form1.en.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Form1.ru.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Login.de.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Login.en.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Login.ru.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.de.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.en.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.ru.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.TenChatClient.de.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.TenChatClient.en.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.TenChatClient.ru.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.VersionLOG.de.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.VersionLOG.en.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Einstellungen.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Visual Studio 2012\Projects\TenChat Client\TenChat Client\obj\Debug\TenChat Client.vbprojResolveAssemblyReference.cache
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\Debug\TenChat Client.exe.config
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.exe
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.xml
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.pdb
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\Debug\TenChat Client.exe
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\Debug\TenChat Client.pdb
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\Debug\TenChat Client.xml
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\Debug\de\TenChat Client.resources.dll
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\Debug\en\TenChat Client.resources.dll
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\Debug\ru\TenChat Client.resources.dll
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.vbprojResolveAssemblyReference.cache
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.About.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.AddServer.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Einstellungen.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Form1.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Login.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Resources.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Serverliste.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.SplashScreen1.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.TenChatClient.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.VersionLOG.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.About.de.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.About.en.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.About.ru.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.AddServer.de.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.AddServer.en.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.AddServer.ru.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Form1.de.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Form1.en.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Form1.ru.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Login.de.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Login.en.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Login.ru.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.de.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.en.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.ru.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.TenChatClient.de.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.TenChatClient.en.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.TenChatClient.ru.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.VersionLOG.de.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.VersionLOG.en.resources
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.vbproj.GenerateResource.Cache
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\de\TenChat Client.resources.dll
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\en\TenChat Client.resources.dll
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\ru\TenChat Client.resources.dll
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\TenChat Client.exe.config
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\TenChat Client.exe
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\TenChat Client.pdb
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\TenChat Client.xml
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\de\TenChat Client.resources.dll
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\en\TenChat Client.resources.dll
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\ru\TenChat Client.resources.dll
+M:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\AeroSuite.dll
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\TenChat Client.exe.config
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.exe
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.xml
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.pdb
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\TenChat Client.exe
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\TenChat Client.pdb
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\TenChat Client.xml
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\de\TenChat Client.resources.dll
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\en\TenChat Client.resources.dll
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\ru\TenChat Client.resources.dll
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.vbprojResolveAssemblyReference.cache
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.About.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.AddServer.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Einstellungen.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Form1.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Login.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Resources.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Serverliste.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.SplashScreen1.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.TenChatClient.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.VersionLOG.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.About.de.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.About.en.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.About.ru.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.AddServer.de.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.AddServer.en.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.AddServer.ru.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Form1.de.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Form1.en.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Form1.ru.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Login.de.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Login.en.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Login.ru.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.de.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.en.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.ru.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.TenChatClient.de.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.TenChatClient.en.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.TenChatClient.ru.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.VersionLOG.de.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.VersionLOG.en.resources
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.vbproj.GenerateResource.Cache
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\de\TenChat Client.resources.dll
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\en\TenChat Client.resources.dll
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\ru\TenChat Client.resources.dll
+Q:\Programmierprojekte\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Update.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\TenChat Client.exe.config
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.exe
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.xml
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.pdb
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\TenChat Client.exe
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\TenChat Client.pdb
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\TenChat Client.xml
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\de\TenChat Client.resources.dll
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\en\TenChat Client.resources.dll
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\bin\FinalRelease\ru\TenChat Client.resources.dll
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmRegister.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Resources.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.Update.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.de.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.en.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.MessageBoxX.ru.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.vbproj.GenerateResource.Cache
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\de\TenChat Client.resources.dll
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\en\TenChat Client.resources.dll
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\ru\TenChat Client.resources.dll
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmUserLogin.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat Client.vbprojResolveAssemblyReference.cache
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmLoggingIn.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmChat.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.splashScreen.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmChat.de.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmChat.en.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmChat.ru.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmAbout.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmAddServer.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmVersionLOG.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmAbout.de.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmAbout.en.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmAbout.ru.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmAddServer.de.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmAddServer.en.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmAddServer.ru.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmVersionLOG.de.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmVersionLOG.en.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmGlobalServerlist.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmMain.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmMain.de.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmMain.en.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmMain.ru.resources
+C:\Users\Manuel.ITWORLD-OEHME\Documents\Projekte\TenChat Client\TenChat Client\obj\Debug\TenChat_Client.frmEditProfile.resources

@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E75E66F1-5EE3-4F7F-9F8F-8908FAADEEE4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TenChat_Client.My.MyApplication</StartupObject>
+    <RootNamespace>TenChat_Client</RootNamespace>
+    <AssemblyName>TenChat Client</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\FinalRelease\</OutputPath>
+    <DocumentationFile>TenChat Client.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>TenChat Client.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Simplefly-Simple-Green-Social-Media-Social-media-chat.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AeroSuite">
+      <HintPath>C:\Users\Manuel.ITWORLD-OEHME\Downloads\AeroSuite.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Section eXtra\frmAbout.Designer.vb">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section eXtra\frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section Main and Chat\frmAddServer.Designer.vb">
+      <DependentUpon>frmAddServer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section Main and Chat\frmAddServer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Section Main and Chat\frmChat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section Main and Chat\frmChat.Designer.vb">
+      <DependentUpon>frmChat.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section Login\frmLoggingIn.Designer.vb">
+      <DependentUpon>frmLoggingIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section Login\frmLoggingIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section Login\frmRegister.Designer.vb">
+      <DependentUpon>frmRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section Login\frmRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section Login\frmUserLogin.Designer.vb">
+      <DependentUpon>frmUserLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section Login\frmUserLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section Classes\INIReader.vb" />
+    <Compile Include="Section Classes\IPDOTNETADRESS.vb" />
+    <Compile Include="Section eXtra\MessageBoxX.Designer.vb">
+      <DependentUpon>MessageBoxX.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section eXtra\MessageBoxX.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Section eXtra\frmGlobalServerlist.Designer.vb">
+      <DependentUpon>frmGlobalServerlist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section eXtra\frmGlobalServerlist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section eXtra\splashScreen.Designer.vb">
+      <DependentUpon>splashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section eXtra\splashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section Main and Chat\frmEditProfile.Designer.vb">
+      <DependentUpon>frmEditProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section Main and Chat\frmEditProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section Main and Chat\frmServers.Designer.vb">
+      <DependentUpon>frmServers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section Main and Chat\frmServers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section eXtra\Update.Designer.vb">
+      <DependentUpon>Update.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section eXtra\Update.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section eXtra\frmVersionLOG.Designer.vb">
+      <DependentUpon>frmVersionLOG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Section eXtra\frmVersionLOG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Section eXtra\frmAbout.de.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section eXtra\frmAbout.en.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section eXtra\frmAbout.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section eXtra\frmAbout.ru.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Main and Chat\frmAddServer.de.resx">
+      <DependentUpon>frmAddServer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Main and Chat\frmAddServer.en.resx">
+      <DependentUpon>frmAddServer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Main and Chat\frmAddServer.resx">
+      <DependentUpon>frmAddServer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Main and Chat\frmAddServer.ru.resx">
+      <DependentUpon>frmAddServer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Main and Chat\frmChat.de.resx">
+      <DependentUpon>frmChat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Main and Chat\frmChat.en.resx">
+      <DependentUpon>frmChat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Main and Chat\frmChat.resx">
+      <DependentUpon>frmChat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Main and Chat\frmChat.ru.resx">
+      <DependentUpon>frmChat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Login\frmLoggingIn.resx">
+      <DependentUpon>frmLoggingIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Login\frmRegister.resx">
+      <DependentUpon>frmRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Login\frmUserLogin.resx">
+      <DependentUpon>frmUserLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section eXtra\MessageBoxX.de.resx">
+      <DependentUpon>MessageBoxX.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section eXtra\MessageBoxX.en.resx">
+      <DependentUpon>MessageBoxX.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section eXtra\MessageBoxX.resx">
+      <DependentUpon>MessageBoxX.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section eXtra\MessageBoxX.ru.resx">
+      <DependentUpon>MessageBoxX.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section eXtra\frmGlobalServerlist.resx">
+      <DependentUpon>frmGlobalServerlist.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section eXtra\splashScreen.resx">
+      <DependentUpon>splashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Main and Chat\frmEditProfile.resx">
+      <DependentUpon>frmEditProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Main and Chat\frmServers.de.resx">
+      <DependentUpon>frmServers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Main and Chat\frmServers.en.resx">
+      <DependentUpon>frmServers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Main and Chat\frmServers.resx">
+      <DependentUpon>frmServers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section Main and Chat\frmServers.ru.resx">
+      <DependentUpon>frmServers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section eXtra\Update.resx">
+      <DependentUpon>Update.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section eXtra\frmVersionLOG.de.resx">
+      <DependentUpon>frmVersionLOG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section eXtra\frmVersionLOG.en.resx">
+      <DependentUpon>frmVersionLOG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section eXtra\frmVersionLOG.resx">
+      <DependentUpon>frmVersionLOG.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.manifest" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Simplefly-Simple-Green-Social-Media-Social-media-chat.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
